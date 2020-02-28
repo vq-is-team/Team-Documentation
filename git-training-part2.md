@@ -3,5 +3,6 @@ Output: updated the HTML file(members.html) with all the name of the IS Team mem
 Instruction: 
 1. Pull this repository.
 2. create your own branch.
-3. commit yur changes to your branch.
-4. do a pull request to master.
+3. Add your name only on the list.
+4. commit yur changes to your branch.
+5. do a pull request to master.
