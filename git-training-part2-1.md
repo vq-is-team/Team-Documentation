@@ -4,3 +4,4 @@
     - inside that blank HTML file, put your name in H1
     - below your name write in P tag a short description about yourself
     - after doing the instructions above, link your about me HTML page to your name on members.html
+3. Request Pull Request to master
